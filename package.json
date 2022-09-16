@@ -1,0 +1,19 @@
+{
+  "name": "sparkpet-api-server",
+  "version": "1.0.0",
+  "description": "Simple json data for wanted-pre-onboarding",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wanted-Pre-Onboarding-FE-Team-12/sparkpet-api-server.git"
+  },
+  "keywords": [],
+  "author": "CH4MD0M",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
