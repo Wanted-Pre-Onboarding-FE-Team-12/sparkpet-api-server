@@ -1,4 +1,4 @@
-const comment = require("./data/comments");
+const comment = require("./comments.json");
 const jsonServer = require("json-server");
 
 const server = jsonServer.create();
